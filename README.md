@@ -1,5 +1,3 @@
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ghoneycutt&theme=shades-of-purple&count_private=true&show_icons=true)
-
 <img src="https://tailoredautomation.io/wp-content/uploads/2019/07/TA-Robot-3-Juggle-230x313.png" alt="juggling robot" width="15%" align="left"></img>
 <br/>
 My company [Tailored Automation](https://tailoredautomation.io/)
